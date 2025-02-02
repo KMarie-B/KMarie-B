@@ -1,4 +1,7 @@
-## Hi there 👋
+## ✨ Hello! ✨
+## I'm graduating in September with a Bachelors Degree in Data Science...
+## But I realized that I need way more practice!
+## So what better way to practice than to work on extra projects? 🙈
 
 <!--
 **KMarie-B/KMarie-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
